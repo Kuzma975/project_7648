@@ -1,0 +1,4 @@
+telegram:
+  token: xxxxxxxxxxxxxxxx_xxxxxxxxxx
+  debug: false
+  test: true
